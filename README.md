@@ -126,8 +126,6 @@ Errors appear immediately with a **Retry** button; there are no silent automatic
 | Hour Details | ![Hour details light](screenshots/hour-detail-light.jpg) | |
 | Search Location | ![Search light](screenshots/search-light.jpg) | |
 
-**Screen recording:** _link to the 1–2 minute recording (search, Run Score / best window, offline mode, error state)._
-
 ---
 
 ## 🌐 APIs, limits and terms
