@@ -166,8 +166,8 @@ Dart 3.13.4
 ### Run it
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Samarth-Naik07/RunReady.git
+cd RunReady
 flutter pub get
 flutter run                        # Android device or emulator
 flutter run -d chrome              # optional: web
