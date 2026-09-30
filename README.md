@@ -119,14 +119,12 @@ Errors appear immediately with a **Retry** button; there are no silent automatic
 
 ## 📸 Screenshots
 
-<!-- TODO: add hour-detail-dark.jpg and search-dark.jpg -->
-
 | Screen | Light | Dark |
 |---|---|---|
 | Home | ![Home light](screenshots/home-light.jpg) | ![Home dark](screenshots/home-dark.jpg) |
 | Plan Your Run | ![Plan light](screenshots/plan-light.jpg) | ![Plan dark](screenshots/plan-dark.jpg) |
-| Hour Details | ![Hour details light](screenshots/hour-detail-light.jpg) | _Coming soon_ |
-| Search Location | ![Search light](screenshots/search-light.jpg) | _Coming soon_ |
+| Hour Details | ![Hour details light](screenshots/hour-detail-light.jpg) | |
+| Search Location | ![Search light](screenshots/search-light.jpg) | |
 
 **Screen recording:** _link to the 1–2 minute recording (search, Run Score / best window, offline mode, error state)._
 
