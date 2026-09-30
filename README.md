@@ -300,22 +300,20 @@ If the API is unavailable during development, the tests still run, because they 
 
 ## ⏱️ Time log
 
-<!-- TODO: fill in honestly before submitting -->
-
 | Task | Time |
 |---|---:|
-| Setup and first screen | _h_ |
-| Data layer (API client, models, repository) | _h_ |
-| Riverpod state | _h_ |
-| Run Score and best window | _h_ |
-| UI (Home, Plan Your Run, Hour Details, Search) | _h_ |
-| Location search + debounce | _h_ |
-| Offline cache | _h_ |
-| Error mapping + Retry | _h_ |
-| Theme and responsive fixes | _h_ |
-| Tests | _h_ |
-| README, screenshots, recording | _h_ |
-| **Total** | **_h_** |
+| Setup and first screen | 2h |
+| Data layer (API client, models, repository) | 4h |
+| Riverpod state | 2h |
+| Run Score and best window | 2h |
+| UI (Home, Plan Your Run, Hour Details, Search) | 4h |
+| Location search + debounce | 1h |
+| Offline cache | 1h |
+| Error mapping + Retry | 3h |
+| Theme and responsive fixes | 2h |
+| Tests | 5h |
+| README, screenshots, recording | 1h |
+| **Total** | **27h** |
 
 ---
 
